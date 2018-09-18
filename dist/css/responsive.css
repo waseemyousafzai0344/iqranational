@@ -1,0 +1,36 @@
+/* bootstrap 3 media queries */
+
+/* large devices(desktop and leptops) CSS */
+
+@media (min-width: 1200px){
+  /* ok */
+}
+/* for medium devices (landscap tables and medium desktop) */
+@media (min-width: 992px) and (max-width:1199px){
+    
+   
+    
+}
+/* for small  devices (portrait tables and small desktop) */
+@media (min-width: 768px) and (max-width:991px){
+    
+    
+    
+}
+/* extra small  devices (landscape phones and tables and small desktop) */
+@media (max-width: 767px){
+    
+    
+}
+/* extra small  devices (smaller devices) */
+@media (max-width: 480px){
+    
+      
+    
+}
+/* extra small  devices (smaller devices) */
+@media (max-width: 320px){
+    
+    
+    
+}
