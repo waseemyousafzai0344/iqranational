@@ -1,0 +1,20 @@
+{
+  "name": "iqra",
+  "version": "1.0.0",
+  "description": "The first site for univeristy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"gh-page -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waseemyousafzai0344/iqranational.git"
+  },
+  "author": "Waseem Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waseemyousafzai0344/iqranational/issues"
+  },
+  "homepage": "https://waseemyousafzai0344.github.io/iqranational"
+}
